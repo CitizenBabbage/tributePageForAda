@@ -1,0 +1,62 @@
+** start of undefined **
+
+<link rel="stylesheet" href="styles.css">
+<head>
+<style>
+  body {background-color: powderblue;} // styles applied to body tag
+
+.vignette {
+  border-radius: 50%;
+}
+.center {
+  display: block;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+}
+</style>
+</head>
+<main id = "main">
+
+<h2 id="title"> Ada </h2>
+<figure id="img-div"> 
+    <img id="image" src=https://www.sott.net/image/s16/333555/full/Ada_Lovelace.jpg alt="Ada Lovelace" class=center  >  
+    </img>
+    <figcaption id="img-caption"> 
+    Ada Lovelace and the Bernouli Numbers
+    </figcaption> 
+  
+</figure>
+<div id = "tribute-info">
+  <ul>
+  <li>19th century software engineer, born Ada Byron, known also as Ada King, Ada Lovelace, Lady Lovelace and Countess of Lovelace .</li>
+  <li>Like Aristotle, Galileo, Madonna and Banksy, is often referred to with just one name: Ada.</li>
+  <li>Widely regarded as being the first computer programmer. Yet, born in 1815, she lived and died before any programmable computer was constructed. </li>
+  <li> Ada wrote a program for calculating Bernoulli numbers for Babbage's proposed mechanical computer-- the "Analytical Engine". Alas, Babbage's machine was never completed in her lifetime, so no chance to run and debug.</li>
+  <li>Perhaps the first person to seriously address philosophical questions concerning AI. Could a machine think? </li>
+  <li>Ada answered in the negative. She argued that a machine could only follow instructions, and had no power of creativity or initiation. </li> 
+  <li> Alan Turing attempted to answer "Lady Lovelace's Objection" several decades later, in the paper in which he introduces us to "the imitation game", later known as the Turing Test for artificial intelligence. </li>
+  <li>Curiously, Ada was the only legitimate child of the famous poet, Lord Byron.</li>
+  <li>According to legend, her mother pushed Ada towards mathematics in order to nudge her away from poetry, which the elder Lady Byron regarded as the scourge and downfall of her scandal-ridden husband. </li>
+  <li>In pursuing mathematics, Ada came to work with Charles Babbage, which led her to write the first computer program of which we still have a record. The program accompanied her notes on the Analytical Engine.</li>
+  <li>Sadly, Ada followed her father in being afflicted by mental illness later in life.</li>
+   <li>Died aged only 36.</li>
+  </ul>
+  </div>
+  <a
+      id="tribute-link"
+      href="https://en.wikipedia.org/wiki/Ada_Lovelace"
+      target="_blank"
+            >
+            Wikipedia entry</a>
+  </main>
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
+
